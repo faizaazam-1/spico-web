@@ -12,7 +12,7 @@ const Footer = ({ navigation }) => {
           <div className="space-y-8 xl:col-span-1">
             <img
               alt="Company name"
-              src="src/assets/SpicoLogo2.png"
+              src="assets/SpicoLogo2.png"
               className="h-20 pl-20" //changes required here !!!!
             />
             <p className="text-base font-dm text-stone-500">

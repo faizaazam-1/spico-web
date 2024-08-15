@@ -35,7 +35,7 @@ const AboutPage = () => {
           <div className="lg:w-1/2 flex items-center justify-center mt-8 lg:mt-0">
             <div className="relative w-full max-w-md">
               <img
-                src="src/assets/AboutusLogo.png"
+                src="assets/AboutusLogo.png"
                 alt="About Us"
                 className="w-full h-auto object-contain"
               />

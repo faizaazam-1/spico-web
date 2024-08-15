@@ -16,7 +16,7 @@ const NewHome = () => {
             playsInline
           >
             <source
-              src="src/assets/WHERE INNOVATION MEETS IMPLEMENTATION (2).mp4"
+              src="assets/WHERE INNOVATION MEETS IMPLEMENTATION (2).mp4"
               type="video/mp4"
             />
             Your browser does not support the video tag.

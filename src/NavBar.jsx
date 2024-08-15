@@ -5,7 +5,7 @@ const Navbar = () => {
       <div className="container mx-auto px-4 py-2 flex flex-wrap items-center justify-between">
         <div className="flex items-center flex-shrink-0">
           <img
-            src="src/assets/Untitled design (9).png"
+            src="assets/Untitled design (9).png"
             alt="Spico Logo"
             className="h-12 w-12 sm:h-16 sm:w-16 mr-2 sm:mr-4"
           />
