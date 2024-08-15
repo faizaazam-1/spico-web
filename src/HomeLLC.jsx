@@ -1,7 +1,7 @@
 import { Button } from "@/components/ui/button";
 import { X } from "lucide-react";
-import backgroundVideo from "./assets/SpicoTech LLC.mp4";
-import logoImage from "./assets/SpicoLogo.png";
+import backgroundVideo from "assets/SpicoTech LLC.mp4";
+import logoImage from "assets/SpicoLogo.png";
 const NavItem = ({ number, title, href }) => (
   <li className="group text-center">
     <a

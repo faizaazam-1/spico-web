@@ -2,12 +2,12 @@ import React from "react";
 
 const TechStack = () => {
   const technologies = [
-    { name: "JavaScript", logo: "src/assets/Copy of Untitled/JsLo.png" },
-    { name: "React", logo: "src/assets/Copy of Untitled/ReactLo.png" },
-    { name: "GraphQL", logo: "src/assets/Copy of Untitled/GraphLo.png" },
-    { name: "Ruby", logo: "src/assets/Copy of Untitled/Rubylo.png" },
-    { name: "Vue.js", logo: "src/assets/Copy of Untitled/VueLo.png" },
-    { name: "Rails", logo: "src/assets/Copy of Untitled/RailsLo.png" },
+    { name: "JavaScript", logo: "assets/Copy of Untitled/JsLo.png" },
+    { name: "React", logo: "assets/Copy of Untitled/ReactLo.png" },
+    { name: "GraphQL", logo: "assets/Copy of Untitled/GraphLo.png" },
+    { name: "Ruby", logo: "assets/Copy of Untitled/Rubylo.png" },
+    { name: "Vue.js", logo: "assets/Copy of Untitled/VueLo.png" },
+    { name: "Rails", logo: "assets/Copy of Untitled/RailsLo.png" },
   ];
 
   return (

@@ -73,7 +73,7 @@ const ContactPage = () => {
                 </p>
               </div>
               <img
-                src="src/assets/Untitled design (4).png"
+                src="assets/Untitled design (4).png"
                 alt="Customer Service"
                 className="h-36 w-36"
               />
